@@ -1,12 +1,12 @@
 # ==================== TU_MyCo-Vision ===================
 #
 # Requirements:
-#   Python 3.10 - 3.12 recommended
+# Python 3.10 - 3.12 recommended
 # Written by: 
 # Kartik Deopujari
 # Matthias Schmal
-# Open AI: Chat G.P.T 
-# ================================================================================
+# Good coding vibes by Chat GPT 
+# =========================================================
 
 import customtkinter as ctk
 from tkinter import filedialog, messagebox, ttk
