@@ -296,7 +296,8 @@ class MycoVisionApp(ctk.CTk):
                 augment=True, 
                 show=self.show_output.get(),
                 name=self.analysis_name.get(),
-                project=self.output_folder.get()
+                project=self.output_folder.get(),
+                max_det=1000
             )
             self.task_progress.set(1.0)
             messagebox.showinfo("Done", "YOLO Prediction completed!")
