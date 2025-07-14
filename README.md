@@ -17,4 +17,4 @@
     - Result Preview
         - Paired preview of original and annotated image for qualitative analysis
 ## Acknowledgements 
-Deveoped as a part of study on polymorphism in *Aureobasidium pullulans*. Special thanks to all the contributors.
+Developed as a part of study on polymorphism in *Aureobasidium pullulans*. Special thanks to all the contributors.
