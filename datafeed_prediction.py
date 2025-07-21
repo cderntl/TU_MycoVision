@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # Load a model
-model = YOLO("model.pt")  # pretrained YOLO11n model
+model = YOLO("model.pt")  # pretrained YOLO model
 
 # Define path to directory 
 source="path"
