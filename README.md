@@ -35,7 +35,7 @@
 
 ## Dependencies and Usage
 To set up environment for using the tool with "TU_MyCo-Vision_v1_source_code.py". 
-Use command: conda env create -f MyCo-Vision_environment.yaml --name name of your choice
+Use command: conda env create -f MyCo-Vision_environment.yaml --name name of your choice.
 All required packages are listed in the "MyCo-Vision_environment.yaml".
 
 ## Credits and Attributions
