@@ -26,9 +26,11 @@
    Used to split each dataset family into 5 train and validation splits. Base code adapted from Ultralytics (https://docs.ultralytics.com/guides/kfold-cross-validation/).
 4. `hyperparameter_tuning.py`  
    Script used to perform hyperparameter search using the `model.tune()` method in Ultralytics. Base code adapted from Ultralytics (https://docs.ultralytics.com/guides/hyperparameter-tuning/).
-5. `datafeed_prediction.py`  
+5. `cross_validation_training.py´
+   Script used to perfom the training with cross-validation on all 5 dataset splits.
+7. `datafeed_prediction.py`  
    Script used for running the prediction function in the Ultralytics YOLO framework for auto-labelling operations.
-6. `all_validator.py`  
+8. `all_validator.py`  
    Script used for validating all MyCo-Vision model families on the global test dataset.
 
 ## Dependencies and Usage
