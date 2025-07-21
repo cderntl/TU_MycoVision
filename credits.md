@@ -1,0 +1,71 @@
+# Credits and Attributions
+
+This project uses the following libraries from the MyCo-Vision_environment.yaml file. Acknowledgments are given to their authors and contributors. 
+## Conda Dependencies
+- bzip2=1.0.8=h99b78c6_7
+- ca-certificates=2025.6.15=hbd8a1cb_0
+- libexpat=2.7.0=h286801f_0
+- libffi=3.4.6=h1da3d7d_1
+- liblzma=5.8.1=h39f12f2_2
+- libmpdec=4.0.0=h5505292_0
+- libsqlite=3.50.1=h6fb428d_6
+- libzlib=1.3.1=h8359307_2
+- ncurses=6.5=h5e97a16_3
+- openssl=3.5.0=h81ee809_1
+- pip=25.1.1=pyh145f28c_0
+- python=3.13.5=hf3f3da0_102_cp313
+- python_abi=3.13=7_cp313
+- readline=8.2=h1d1bf99_2
+- tk=8.6.13=h892fb3f_2
+
+## Pip Dependencies
+- altgraph==0.17.4
+- certifi==2025.6.15
+- charset-normalizer==3.4.2
+- contourpy==1.3.2
+- customtkinter==5.2.2
+- cycler==0.12.1
+- darkdetect==0.8.0
+- filelock==3.18.0
+- fonttools==4.58.4
+- fsspec==2025.5.1
+- idna==3.10
+- jinja2==3.1.6
+- kiwisolver==1.4.8
+- macholib==1.16.3
+- markupsafe==3.0.2
+- matplotlib==3.10.3  (J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007.)
+- mpmath==1.3.0
+- narwhals==1.44.0
+- networkx==3.5  
+- numpy==2.3.1  (Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). https://doi.org/10.1038/s41586-020-2649-2)
+- opencv-python==4.11.0.86 (Bradski, G. (2000). The OpenCV library. Dr. Dobb's Journal of Software Tools.)
+- opencv-python-headless==4.11.0.86 (see OpenCV citation above)
+- packaging==25.0
+- pandas==2.3.0 (McKinney, W. (2010) Data Structures for Statistical Computing in Python. Proceedings of the 9th Python in Science Conference, Austin, 28 June-3 July 2010, 56-61.
+  https://doi.org/10.25080/Majora-92bf1922-00a)
+- pillow==11.2.1
+- plotly==6.1.2
+- psutil==7.0.0
+- py-cpuinfo==9.0.0
+- pyinstaller==6.14.1
+- pyinstaller-hooks-contrib==2025.5
+- pyparsing==3.2.3
+- python-dateutil==2.9.0.post0
+- pytz==2025.2
+- pyyaml==6.0.2
+- requests==2.32.4
+- scipy==1.16.0 (Virtanen, P., Gommers, R., Oliphant, T.E. et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nat Methods 17, 261–272 (2020). https://doi.org/10.1038/s41592-019-0686-2)
+- setuptools==80.9.0
+- six==1.17.0
+- sympy==1.14.0  
+- tkinterweb==4.3.1
+- tkinterweb-tkhtml==1.0
+- torch==2.7.1  
+- torchvision==0.22.1 (see PyTorch citation above)
+- tqdm==4.67.1  
+- typing-extensions==4.14.0
+- tzdata==2025.2
+- ultralytics==8.3.159 (Jocher, G., Qiu, J., & Chaurasia, A. (2023). Ultralytics YOLO (Version 8.0.0) [Computer software]. https://github.com/ultralytics/ultralytics)
+- ultralytics-thop==2.0.14
+- urllib3==2.5.0
