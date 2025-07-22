@@ -16,6 +16,24 @@
     - Interactive plots generated using Plotly (v6.1.2).
   - Result Preview:
     - Paired preview of original and annotated images for qualitative analysis.
+## Performance
+(Validated on global_test_dataset)
+| Class | Precision | Recall | mAP@50 | mAP@50-95 |
+| :-- | :-- | :-- | :-- | :-- |
+| all | 0.734 | 0.665 | 0.735 | 0.545 |
+| C2 | 0.839 | 0.851 | 0.912 | 0.730 |
+| C5 | 0.709 | 0.789 | 0.792 | 0.587 |
+| C1 | 0.762 | 0.731 | 0.844 | 0.677 |
+| C4 | 0.811 | 0.475 | 0.622 | 0.327 |
+| C6 | 0.639 | 0.600 | 0.699 | 0.560 |
+| C11 | 0.613 | 0.583 | 0.612 | 0.480 |
+| C9 | 0.557 | 0.579 | 0.583 | 0.459 |
+| C2-B | 0.865 | 0.739 | 0.887 | 0.729 |
+| C3-B | 0.778 | 0.949 | 0.900 | 0.730 |
+| C8 | 0.900 | 0.846 | 0.897 | 0.790 |
+| C7-E | 0.664 | 0.446 | 0.577 | 0.338 |
+| C7-F | 0.720 | 0.571 | 0.712 | 0.391 |
+| C7-G | 0.680 | 0.479 | 0.517 | 0.291 |
 
 ## Scripts
 1. `cropper.py`  
@@ -34,9 +52,9 @@
    Script used for validating all MyCo-Vision model families on the global test dataset.
 
 ## Dependencies and Usage
-To set up environment for using the tool with "TU_MyCo-Vision_v1_source_code.py". 
-Use command: conda env create -f MyCo-Vision_environment.yaml --name name of your choice.
-All required packages are listed in the "MyCo-Vision_environment.yaml".
+To set up environment for using the tool with "TU_MyCo-Vision_v1_source_code.py".   
+Use command: conda env create -f MyCo-Vision_environment.yaml --name name of your choice.  
+All required packages are listed in the "MyCo-Vision_environment.yaml".  
 
 ## Credits and Attributions
 
