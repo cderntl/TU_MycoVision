@@ -10,6 +10,7 @@
 - Class definitions untied from species-specific or cultivation condition-specific phenotypes, enabling wider compatibility with different research questions.
 - Graphical User Interface for non-programmers, which combines:
   - Image detection.
+  - New "Custom class names" feature to change default class labels to any desired label.
   - Quantitative data analysis that supports:
     - Analysis of all images within a single sample group (Single-Group Analysis).
     - Analysis across multiple sample groups (Multi-Group Analysis).
