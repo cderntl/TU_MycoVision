@@ -63,3 +63,7 @@ See the credits.md for list of all third-party packages and cited libraries used
 
 ## Acknowledgements
 Developed as a part of study on polymorphism in *Aureobasidium pullulans*. Special thanks to all the contributors. This research was funded in whole or in part by the Austrian Science Fund (FWF) [10.55776/P 35642]. For open access purposes, the author has applied a CC BY public copyright license.
+
+## AI Usage Declaration
+
+Parts of the codes in this repository was written with the help of generative AI tools ("vibe coding"). All AI-generated code was manually reviewed and tested by the contributors to ensure the intended functionality to the best of their abilities. 
